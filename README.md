@@ -2,7 +2,7 @@
 
 #### About Me 
 
-I am a former nursing student who has found passion and enjoyment doing Front-end web development.
+My name is Victor I am a former nursing student who has found passion and enjoyment doing Front-end web development.
 
 ***
 - 🔭 I’m currently working on ... StorySquad and BrieryBranchLandManagement.
@@ -20,3 +20,5 @@ I am a former nursing student who has found passion and enjoyment doing Front-en
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </div>
 ***
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDronov&layout=compac"/>
