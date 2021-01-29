@@ -10,4 +10,5 @@
 - ⚡ Fun fact: ... I have diferent color eyes!
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/victor-dronov1/.) 
 
-### **Technologies**
+### Technologies
+<img src="https://img.icons8.com/nolan/64/js.png"/>
