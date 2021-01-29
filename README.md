@@ -4,7 +4,6 @@
 
 My name is Victor I am a former nursing student who has found passion and enjoyment doing Front-end web development.
 
-***
 - 🔭 I’m currently working on ... StorySquad and BrieryBranchLandManagement.
 - 🌱 I’m currently learning ... UI/UX design.
 - 💬 Ask me about ... Anything!
