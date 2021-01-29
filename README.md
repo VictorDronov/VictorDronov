@@ -8,12 +8,12 @@
 - 🌱 I’m currently learning ... UI/UX design.
 - 💬 Ask me about ... Anything!
 - ⚡ Fun fact: ... I have diferent color eyes!
+- 📫 How to reach me: ... {LinkedIn}https://www.linkedin.com/in/victor-dronov1/.
 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
 <!--
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
