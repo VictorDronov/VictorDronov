@@ -21,4 +21,4 @@ My name is Victor I am a former nursing student who has found passion and enjoym
 </div>
 
 
- <a href="https://icons8.com/">Icons</a>
+Icons by <a href="https://icons8.com/icon/GNO9f2CARaea/mail" target="_blank">Icons8</a>
