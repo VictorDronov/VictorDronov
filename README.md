@@ -12,3 +12,5 @@
 
 ### Technologies
 <img src="https://img.icons8.com/nolan/64/js.png"/>
+<img src="https://img.icons8.com/nolan/64/react-native.png"/>
+<img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
