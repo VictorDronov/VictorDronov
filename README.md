@@ -11,6 +11,8 @@
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/victor-dronov1/.) 
 
 ### Technologies
+<div>
 <img src="https://img.icons8.com/nolan/64/js.png"/>
 <img src="https://img.icons8.com/nolan/64/react-native.png"/>
 <img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
+</div>
