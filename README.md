@@ -19,6 +19,3 @@ My name is Victor I am a former nursing student who has found passion and enjoym
 <img src="https://img.icons8.com/nolan/64/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </div>
-***
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDronov&layout=compac"/>
