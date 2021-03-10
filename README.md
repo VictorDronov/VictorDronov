@@ -8,7 +8,7 @@ My name is Victor I am a former nursing student who has found passion and enjoym
 - 🌱 I’m currently learning ... UI/UX design.
 - 💬 Ask me about ... Anything!
 - ⚡ Fun fact: ... I have diferent color eyes!
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/victor-dronov1/.)  [Gmail](victordronov1@gmail.com)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/victor-dronov1/.) 
 ***
 ### Skills
 <div>
