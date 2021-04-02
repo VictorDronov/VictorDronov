@@ -15,8 +15,10 @@ My name is Victor I am a former nursing student who has found passion and enjoym
 <img src="https://img.icons8.com/nolan/64/js.png"/>
 <img src="https://img.icons8.com/nolan/64/react-native.png"/>
 <img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
-<img src="https://img.icons8.com/nolan/64/python.png"/>
+<img src="https://img.icons8.com/nolan/64/mysql.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  
 </div>
 
 ***
