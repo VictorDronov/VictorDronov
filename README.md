@@ -22,6 +22,9 @@ My name is Victor I am a former nursing student who has found passion and enjoym
 </div>
 
 ***
+<img src=" https://github.com/VictorDronov/github-readme-stats" />
+
+***
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDronov&layout=compact74732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d736f6b616562266c61796f75743d636f6d70616374"/>
 
