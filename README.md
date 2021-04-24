@@ -4,7 +4,7 @@
 
 My name is Victor I am a former nursing student who has found passion and enjoyment doing Front-end web development.
 
-- 🔭 I’m currently working on ... StorySquad, Fyre
+- 🔭 I’m currently working on ... StorySquad
 - 🌱 I’m currently learning ... UI/UX design.
 - 💬 Ask me about ... Anything!
 - ⚡ Fun fact: ... I have diferent color eyes!
