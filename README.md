@@ -2,13 +2,8 @@
 
 #### About Me 
 
-My name is Victor I am a former nursing student who has found passion and enjoyment doing Front-end web development.
+My name is Victor.
 
-- 🔭 I’m currently working on ... StorySquad
-- 🌱 I’m currently learning ... UI/UX design.
-- 💬 Ask me about ... Anything!
-- ⚡ Fun fact: ... I have diferent color eyes!
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/victor-dronov1/.) 
 ***
 ### Skills
 <div>
